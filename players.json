@@ -1,0 +1,43 @@
+[
+  { "first_name" : "Gok",
+    "last_name" : "Bokbok",
+    "number" : 1,
+    "MA" : 4,
+    "ST" : 5,
+    "AG" : 5,
+    "PA" : 5,
+    "AV" : 10,
+    "skills" : null,
+    "team" : null,
+    "position" : "Black Orc",
+    "spp" : 0
+  },
+
+  { "first_name" : "Gork",
+    "last_name" : "Borkbork",
+    "number" : 2,
+    "MA" : 4,
+    "ST" : 5,
+    "AG" : 5,
+    "PA" : 5,
+    "AV" : 10,
+    "skills" : null,
+    "team" : null,
+    "position" : "Black Orc",
+    "spp" : 0
+  },
+
+  { "first_name" : "Gik",
+    "last_name" : "Bikbik",
+    "number" : 3,
+    "MA" : 4,
+    "ST" : 5,
+    "AG" : 5,
+    "PA" : 5,
+    "AV" : 10,
+    "skills" : null,
+    "team" : null,
+    "position" : "Black Orc",
+    "spp" : 0
+  }
+]
