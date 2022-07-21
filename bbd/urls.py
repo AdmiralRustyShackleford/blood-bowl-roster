@@ -18,6 +18,7 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
+    path('bbd/list_players/', views.list_players),
     path('admin/', admin.site.urls),
     path('bbd/hello/', views.say_hello),
 ]

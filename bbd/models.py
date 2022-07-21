@@ -3,8 +3,8 @@ from django.utils.translation import gettext_lazy as _
 
 
 class Skill(models.Model):
-    name = models.TextField
-    description = models.TextField
+    name = models.TextField(default='Skill Name')
+    description = models.TextField(default='Skill description')
 
 
 class Team(models.Model):
